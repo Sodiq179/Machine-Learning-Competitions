@@ -7,6 +7,10 @@ The Tunisian Company of Electricity and Gas (STEG) is a public and a non-adminis
 ## [Rank on Leaderboard](https://zindi.africa/competitions/indabax-nigeria-23/leaderboard)
 
 
+<p align="center">
+    <img width="400" src=img/leaderboard.PNG alt="MRI Classification">
+</p>
+
 **Rank: 6/28**
 
 ## Author
